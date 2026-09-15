@@ -1,4 +1,4 @@
-# Fetching from an API
+# Fetching data from an API
 
 A simple coding practice about fetching data from users.
 
