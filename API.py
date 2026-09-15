@@ -1,8 +1,5 @@
 import requests
 
-response = requests.get("https://jsonplaceholder.typicode.com/users")
-users = response.json()
-
 class User:
     def __init__(self, id, name, email, phone):
         self.id = id
